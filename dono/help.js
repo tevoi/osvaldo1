@@ -45,6 +45,9 @@ return `
 ◆◇ ${prefix}gerarnick (nome)
 ◆◇ ${prefix}tabela (tabela-letras)
 ◆◇ ${prefix}ranklevel (de todos)
+◆◇ ${prefix}atividade
+◆◇ ${prefix}rankativo
+◆◇ ${prefix}checkativo @marca
 ◆◇ ${prefix}gitdobot
 ◆◇ ${prefix}sticker 
 ◆◇ ${prefix}fsticker 

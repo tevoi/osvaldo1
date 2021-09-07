@@ -32,6 +32,7 @@ const dono = (prefix) => {
 ◆◇ ${prefix}bc [texto] (ele faz uma™)
 ◆◇ ${prefix}fundobemvindo (link-img)
 ◆◇ ${prefix}fundosaiu (link-img)
+◆◇ ${prefix}banativos (quantidade de mensagem, para banir, tome cuidado)
 ◆◇  
 ━━━❮ ${NamaBot} ❯━━━`
 
