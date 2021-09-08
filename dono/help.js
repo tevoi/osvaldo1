@@ -41,6 +41,7 @@ return `
 ◆◇ ${prefix}calunia numero|bla|bla
 ◆◇ ${prefix}placaloli (txt)
 ◆◇ ${prefix}semoji exemplo: 😉
+◆◇ ${prefix}emoji 🙃/whatsapp
 ◆◇ ${prefix}simi (fale algo) 
 ◆◇ ${prefix}gerarnick (nome)
 ◆◇ ${prefix}tabela (tabela-letras)
@@ -265,6 +266,7 @@ return `
 }
 
 exports.help = help
+
 
 
 
