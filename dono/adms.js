@@ -22,8 +22,12 @@ const adms = (prefix) => {
 ◆◇ ${prefix}antiloc 1 / 0  
 ◆◇ ${prefix}leveling 1 / 0  
 ◆◇ ${prefix}antilink 1 / 0
+◆◇ ${prefix}antilinkhard 1 / 0
 ◆◇ ${prefix}antifake 1 / 0
 ◆◇ ${prefix}bemvindo 1 / 0
+◆◇ ${prefix}antiimg 1 / 0
+◆◇ ${prefix}antiaudio 1 / 0
+◆◇ ${prefix}antivideo 1 / 0
 ◆◇ ${prefix}simih 1 / 0
 ◆◇
 ━━━━❮ ${NamaBot} ❯━━━━`

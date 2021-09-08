@@ -1,4 +1,4 @@
-# 🌀 Aleatory Bot 🌀
+#   🌀 Aleatory Bot 🌀
 <div align="center">
 <img src="https://i.ibb.co/TLySDcF/59ed60bd9936.jpg" alt="Aleatory Bot" width="300" />
 
@@ -20,7 +20,7 @@ Grupo ofc para usar e tirar duvidas sobre o bot!!
 > pkg update -y
 > pkg upgrade -y
 > pkg install nodejs -y
-> pkg install nodejs-lst -y
+> pkg install nodejs-lts -y
 > pkg install git -y
 > pkg install python -y
 > termux-setup-storage

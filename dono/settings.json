@@ -1,16 +1,16 @@
 {
 	"prefix": "!",
-	"ownerNumber": "SEU-NUMERO",
-	"NumeroDono": "SEU-NÚMERO-NOVAMENTE",
+	"ownerNumber": "SEU-NÚMERO-JUNTO",
+	"NumeroDono": "SEU-NÚMERO-JUNTO-DENOVO",
 	"NamaOwner": "NOME-DO-DONO",
 	"NamaBot": "NOME-DO-BOT",
 	"instagram": "OFF",
 	"ytb": "OFF",
 	"cdd": "480000",
-	"dono2": ".",
-	"dono3": ".",
-	"crtt": "𝐉𝐎𝐆𝐎 𝐃𝐀 𝐕𝐄𝐋𝐇𝐀",
 	"banChats": true,
+ "dono2": ".",
+	"dono3": ".",
+ "crtt": "𝐉𝐎𝐆𝐎 𝐃𝐀 𝐕𝐄𝐋𝐇𝐀",
 	"memberlimit": "1",
 	"limitawal": "9999"
 }

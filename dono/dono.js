@@ -10,12 +10,12 @@ const dono = (prefix) => {
 ◆◇ ${prefix}delautoban numero-junto
 ◆◇ ${prefix}ativo
 ◆◇ ${prefix}ausente (fale-oq-faz)
+◆◇ ${prefix}antiligar 1 / 0
 ◆◇ ${prefix}antipvon
 ◆◇ ${prefix}antipvoff
 ◆◇ ${prefix}antipv 1 / 0 (esse da block)
 ◆◇ ${prefix}bangp
 ◆◇ ${prefix}unbangp
-◆◇ ${prefix}serpremium
 ◆◇ ${prefix}dono2 @marca
 ◆◇ ${prefix}dono3 @marca
 ◆◇ ${prefix}bcgp (TM pra tds do gp)
@@ -32,13 +32,12 @@ const dono = (prefix) => {
 ◆◇ ${prefix}bc [texto] (ele faz uma™)
 ◆◇ ${prefix}fundobemvindo (link-img)
 ◆◇ ${prefix}fundosaiu (link-img)
-◆◇ ${prefix}banativos (quantidade de mensagem, para banir, bane as pessoas abaixo daquela quantidade de mensagem)
+◆◇ ${prefix}banativos (0 ele bane aqueles que tiver com 0 mensagem, faça isso, após o bot tiver no grupo, por pelo menos 1 semana)
 ◆◇  
 ━━━❮ ${NamaBot} ❯━━━`
 
 }
 exports.dono = dono
-
 
 
 
