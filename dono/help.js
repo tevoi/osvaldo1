@@ -2,28 +2,14 @@ const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, p
 return `
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
-◆◇ Olá ${pushname}
-◆◇ ${ucapanWaktu} 
-◆◇ seja bem vindo(a) 
-◆◇ ao menu de comandos
-◆◇  
-━━━━━━━❮◆❯━━━━━━━
-◆◇  
 ◆◇ Prefixo:『 ${prefix} 』
 ◆◇ Bateria:『 ${battre} 』
 ◆◇ Data/Hora : ${time}
 ◆◇ Level : ${getLevelingLevel(sender)}
 ◆◇ Patente : ${patt}
-◆◇  
+◆◇ versao : 4.2
+◆◇ New osvaldinho Update
 ◆◇                         
-━━━━━━━❮◆❯━━━━━━━
-◆◇   
-◆◇  『•IMPORTANTE•』
-◆◇ 
-◆◇ ${prefix}bug (questione)
-◆◇ ${prefix}avalie (o quao bom)
-◆◇ ${prefix}sugestao (dica)
-◆◇ 
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇   
 ◆◇ 『•MENU DE CMD•』
